@@ -8,7 +8,7 @@ const botao2 = document.getElementById('botao-2');
 const linkFilme = document.getElementById('link-filme');
 const chuvaContainer = document.querySelector('.chuva-container');
 
-linkFilme.href = "www.netflix.com/watch/81246107";
+linkFilme.href = "https://www.netflix.com/br/title/81246107?s=i&trkid=278964018&vlang=pt&trg=cp";
 
 const emojis = ['💜', '✨'];
 
